@@ -1,2 +1,2 @@
 # Book-Bank
-A python tkinter and mysql project
+A python-tkinter and mysql project
