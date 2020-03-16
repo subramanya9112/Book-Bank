@@ -16,10 +16,10 @@ except:
 	pip.main(['install', 'Xlib'])
 	import pyautogui
 
-host1 = "localhost"
-database1 = "Accounts"
-user1 = "root"
-password1 = "Subbu@ganesh9112"
+host1 = "****"
+database1 = "****"
+user1 = "****"
+password1 = "****"
 
 
 def ask_for_Db():
